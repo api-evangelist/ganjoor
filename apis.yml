@@ -1,0 +1,32 @@
+aid: ganjoor
+name: Ganjoor
+description: "Classic Persian poetry works including access to related manuscripts, recitations and music tracks"
+url: https://api.ganjoor.net
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Books"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Books
+  - Public APIs
+apis:
+  - name: Ganjoor
+    description: "Classic Persian poetry works including access to related manuscripts, recitations and music tracks"
+    humanURL: https://api.ganjoor.net
+    baseURL: https://api.ganjoor.net
+    tags:
+      - Books
+    properties:
+      - type: Documentation
+        url: https://api.ganjoor.net
+common:
+  - type: Website
+    url: https://api.ganjoor.net
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
