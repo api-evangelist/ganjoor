@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ganjoor.pn
 name: Ganjoor
 description: "Classic Persian poetry works including access to related manuscripts, recitations and music tracks"
 url: https://api.ganjoor.net
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
