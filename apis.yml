@@ -39,7 +39,6 @@ apis:
   - name: Ganjoor
     description: "Classic Persian poetry works including access to related manuscripts, recitations and music tracks"
     humanURL: https://api.ganjoor.net
-    baseURL: https://api.ganjoor.net
     tags:
       - Books
     properties:
